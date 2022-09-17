@@ -1,8 +1,6 @@
 # Overview
 
-This is the classic Hello World. The purpose was to demostrate my development environment with Python, Visual Studio Code, and Git/Github.
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
+This is a classic Hello World program. The purpose was to demostrate my development environment with Python, Visual Studio Code, and Git/Github.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -14,18 +12,19 @@ This is the classic Hello World. The purpose was to demostrate my development en
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Example Website](http://example.com)
 
-1.
-1.
-1.
+# Markdown Syntax Examples
 
-![Screenshot](Screenshot.png)
+## Example of a numbered list
+1. Example list item
+1. Another example list item
+1. A third example list item
+
+## Example of an image
+![Heber Mountain View](heber.jpg)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Establish world peace
+* Take a nap
